@@ -3,11 +3,19 @@
 https://github.com/user-attachments/assets/21c24ba8-04c9-482c-a180-2cb9e2079cd8
 
 
-**Author:** Yamoah Frimpong Attafuah  
+**Author:** Yamoah F. Attafuah  
 
 **Institution:** Ashesi University
 
 **Project:** Capstone Engineering Research  
+
+---
+
+## Project Overview
+
+Traditional weather stations rely on mechanical anemometers (cups and vanes) to measure wind speed and direction. These moving parts are susceptible to mechanical wear, friction, and degradation in harsh weather conditions.
+
+This project presents a novel Solid-State Weather Station that eliminates moving parts by using sound to measure wind properties. By analyzing the wind noise captured by an array of microphones, Machine Learning (ML) models are employed to accurately estimate Wind Speed and classify Wind Direction, offering a durable, low-maintenance alternative for weather monitoring.at Ashesi University.
 
 ---
 
@@ -16,13 +24,6 @@ https://github.com/user-attachments/assets/21c24ba8-04c9-482c-a180-2cb9e2079cd8
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/d8af3a0a-aa8a-456a-b571-55d701b52fc7" width="600"> | <img src="https://github.com/user-attachments/assets/8d539d3b-d519-42f7-8126-9c2f4cc28eea" width="600"> |
 | *Figure 1: The mounted weather station performing wind measurements.* | *Figure 2: A slightly different POV of the mounted weather station.* |
-
----
-
-## Project Overview
-Traditional weather stations rely on mechanical anemometers (cups and vanes) to measure wind speed and direction. These moving parts are susceptible to mechanical wear, friction, and degradation in harsh weather conditions.
-
-This project presents a novel Solid-State Weather Station that eliminates moving parts by using sound to measure wind properties. By analyzing the wind noise captured by an array of microphones, Machine Learning (ML) models are employed to accurately estimate Wind Speed and classify Wind Direction, offering a durable, low-maintenance alternative for weather monitoring.at Ashesi University.
 
 ---
 
@@ -60,7 +61,7 @@ The system is built around a microcontroller and a 4-microphone array arranged i
 ### Key Features
 - **No Moving Parts:** Significantly increases durability in harsh environments.  
 - **Audio-Based Sensing:** Uses commercial off-the-shelf (COTS) electret microphones.  
-- **Edge/Cloud AI:** Utilizes ML models to interpret complex aeroacoustic signatures.
+- **Edge AI:** Utilizes ML models to interpret complex aeroacoustic signatures on-device.
 - **High Accuracy:** Achieved wind speed estimation comparable to commercial mechanical anemometers.
 
 ---
