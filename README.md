@@ -1,15 +1,13 @@
 ## Solid-State Weather Station: Measuring Wind with Sound
 
+https://github.com/user-attachments/assets/21c24ba8-04c9-482c-a180-2cb9e2079cd8
+
+
 **Author:** Yamoah Frimpong Attafuah  
 
 **Institution:** Ashesi University
 
 **Project:** Capstone Engineering Research  
-
----
-
-## Video Demo
-https://github.com/user-attachments/assets/21c24ba8-04c9-482c-a180-2cb9e2079cd8
 
 ---
 
