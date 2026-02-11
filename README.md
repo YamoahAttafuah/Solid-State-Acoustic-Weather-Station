@@ -1,7 +1,9 @@
 # Solid-State Weather Station: Measuring Wind with Sound
 
 **Author:** Yamoah Frimpong Attafuah  
+
 **Institution:** Ashesi University
+
 **Project:** Capstone Engineering Research  
 
 ---
