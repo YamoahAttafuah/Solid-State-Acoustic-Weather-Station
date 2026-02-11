@@ -1,4 +1,4 @@
-# Solid-State Weather Station: Measuring Wind with Sound
+## Solid-State Weather Station: Measuring Wind with Sound
 
 **Author:** Yamoah Frimpong Attafuah  
 
