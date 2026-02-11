@@ -11,11 +11,10 @@ https://github.com/user-attachments/assets/21c24ba8-04c9-482c-a180-2cb9e2079cd8
 ---
 
 ## Device Gallery
-![Mounted Weather Station POV 1](https://github.com/user-attachments/assets/8d539d3b-d519-42f7-8126-9c2f4cc28eea)
-*Figure 1: The mounted weather station performing wind measurements.*
-
-![Mounted Weather Station POV 2](https://github.com/user-attachments/assets/d8af3a0a-aa8a-456a-b571-55d701b52fc7)
-*Figure 2: A slightly different POV of the mounted weather station performing wind measurements.*
+| | |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d8af3a0a-aa8a-456a-b571-55d701b52fc7" width="600"> | <img src="https://github.com/user-attachments/assets/8d539d3b-d519-42f7-8126-9c2f4cc28eea" width="600"> |
+| *Figure 1: The mounted weather station performing wind measurements.* | *Figure 2: A slightly different POV of the mounted weather station.* |
 
 ---
 
@@ -66,7 +65,7 @@ The system is built around a microcontroller and a 4-microphone array arranged i
 ---
 
 ## Performance Results
-The system was validated against a reference commercial weather station. The machine learning models achieved the following performance metrics:
+The system was validated against a reference commercial weather station. The machine learning models achieved the following on-device performance metrics:
 
 ### Wind Speed Estimation
 - **Models:** ANN & Random Forest Regressor
