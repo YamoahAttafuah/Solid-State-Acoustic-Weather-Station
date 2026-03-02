@@ -71,8 +71,8 @@ The system was validated against a reference commercial weather station. The mac
 
 ### Wind Speed Estimation
 - **Models:** ANN & Random Forest Regressor
-- **Root Mean Square Error (RMSE):** 0.58 m/s
-- **Mean Absolute Error (MAE):** 0.36 m/s
+- **Root Mean Square Error (RMSE):** 0.42 m/s
+- **Mean Absolute Error (MAE):** 0.31 m/s
 
 ### Wind Direction
 - **Models:** CNN, Gradient Boosting & LightGBM
